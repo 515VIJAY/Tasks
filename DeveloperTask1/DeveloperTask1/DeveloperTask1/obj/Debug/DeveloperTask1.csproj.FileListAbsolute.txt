@@ -1,0 +1,6 @@
+c:\users\vijay ponnapalli\documents\visual studio 2015\Projects\DeveloperTask1\DeveloperTask1\bin\Debug\DeveloperTask1.exe.config
+c:\users\vijay ponnapalli\documents\visual studio 2015\Projects\DeveloperTask1\DeveloperTask1\bin\Debug\DeveloperTask1.exe
+c:\users\vijay ponnapalli\documents\visual studio 2015\Projects\DeveloperTask1\DeveloperTask1\bin\Debug\DeveloperTask1.pdb
+c:\users\vijay ponnapalli\documents\visual studio 2015\Projects\DeveloperTask1\DeveloperTask1\obj\Debug\DeveloperTask1.csprojResolveAssemblyReference.cache
+c:\users\vijay ponnapalli\documents\visual studio 2015\Projects\DeveloperTask1\DeveloperTask1\obj\Debug\DeveloperTask1.exe
+c:\users\vijay ponnapalli\documents\visual studio 2015\Projects\DeveloperTask1\DeveloperTask1\obj\Debug\DeveloperTask1.pdb
